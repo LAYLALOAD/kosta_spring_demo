@@ -3,7 +3,6 @@ package com.example.demo.apicontroller;
 import com.example.demo.model.Product;
 import com.example.demo.service.OrderService;
 import com.example.demo.service.ProductService;
-import com.example.demo.service.ProductService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
